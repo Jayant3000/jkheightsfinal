@@ -1,0 +1,101 @@
+
+*{    font-family: arial;    background-color: rgb(185,179,175);
+    background-color: #FFFBD5;
+    line-height: 1.6em;}
+
+body {  font-family: Arial, Verdana, serif;  color: #665544;  padding: 50px;}.page {  border: 3px solid #665544;  background-color: #efefef;  padding: inherit;
+
+  text-align: center;
+  border-radius: 10px;
+   -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+  }
+
+h1 {     font-family: Chalkduster;
+     font-size:500%;
+     padding: 5px;
+     color: black;
+     letter-spacing: 0.2em;
+     text-shadow: -1px -1px #666666;
+     background-color: #efefef;
+     font-family: Chalkduster;
+   }
+
+
+ .credits:first-letter {
+           font-size: 300%;
+      }
+h3 {     font-family: Chalkduster;
+     font-size:400%;
+     padding: 10px;
+     color: black;
+      letter-spacing: 0.2em;
+     text-shadow: -1px -1px #666666;
+      }
+
+
+
+
+h4,h2{
+         color: black;
+         font-size: 200%;
+         font-family: Chalkduster;
+         background-color:  #efefef;
+         opacity: 0.8;
+         text-transform: capitalize;
+         text-shadow: -1px -1px #666666;
+          padding: 10px;
+         border-radius: 10px;
+          -moz-border-radius: 10px;
+         -webkit-border-radius: 10px;}
+
+p {  font-family: Arial, Verdana, serif;  color: black;  padding: 5px;}
+
+
+li{
+         color: white;
+         font-size: 90%;
+         font-family: Chalkduster;
+
+         opacity: 0.8;
+         text-transform: capitalize;
+         text-shadow: -1px -1px #666666;}
+p{
+         color: black;
+         font-size: 100%;
+         font-family: Chalkduster;
+         background-color:  #efefef;
+
+         opacity: 0.8;
+         text-transform: capitalize;
+         text-shadow: -1px -1px #666666;
+         border: 3px solid #665544;         background-color: #efefef;         padding: inherit;
+
+  text-align: center;
+  border-radius: 10px;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;}
+
+b{
+         color: black;
+         font-size: 140%;
+         font-family: Chalkduster;
+         background-color: #efefef;
+
+         opacity: 0.8;
+         text-transform: capitalize;
+         text-shadow: -1px -1px #666666;}
+
+b1{
+      color: black;
+         font-size: 200%;
+         font-family: Great Vibes;
+         background-color: #efefef; }
+
+div.box {  height: 100px;  width: 100px;  background-color: #efefef;}ul{     height: 75%;     width: 75%;
+     background-color: #efefef;
+       padding: 5px;
+     border: 3px solid #665544;
+   border-radius: 10px;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;}
